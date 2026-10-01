@@ -75,4 +75,4 @@ docker pull mohammadadnankhan/nodejs-demo-app:latest
 *Add screenshots of the successful GitHub Actions run and the DockerHub image here.*
 
 ## Author
-Mohammad Adnan Khan | [GitHub](https://github.com/AddyKhan257)
+Mohammad Adnan Khan | [GitHub](https://github.com/AddyKhan257) | [ddrtkhan@gmail.com](mailto:ddrtkhan@gmail.com)
